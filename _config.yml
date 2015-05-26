@@ -1,14 +1,11 @@
 # Site settings
-title: Ben Griffith - Tech blog
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+title: Ben Griffith - Developer blog
+email: contact@bgriffith.me
+description: I’m a front-end developer based in London who’s always on the look out for a challenge and the opportunity to develop myself further on any front. Through the experience of leading a team pod, peer collaboration and knowledge sharing within development teams have become key principles that I believe help take any team to the next level.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://bgriffith.me" # the base hostname & protocol for your site
+twitter_username: @bgriffith_me
+github_username:  bgriffith
 
 # Build settings
 markdown: kramdown
